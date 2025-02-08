@@ -1,0 +1,4 @@
+g = 5
+p = 56775307
+private_key = 20140040
+public_key = 54484027
